@@ -1,8 +1,19 @@
-# React + Vite
+# Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Effortlessly manage your finances and track expenses with our intuitive Expense Tracker app. Gain insights into your spending habits, set budgets, and stay in control of your financial goals.
 
-Currently, two official plugins are available:
+Features:
+<br/>
+1.Add Expenses: Easily input your expenses with details such as category, amount, and date.
+<br/>
+2.View and Edit History: Review and edit your expense history to keep your records accurate.
+<br/>
+3.Budget Monitoring: Set monthly budgets for different categories and receive alerts when approaching limits.
+<br/>
+4.Visual Analytics: View graphical representations of your spending patterns to identify trends.
+<br/>
+5.Multi-Platform Access: Access your expense data from anywhere with our responsive and cross-platform design.
+<br/>
+6.Secure and Private: Your financial data is encrypted and stored securely, ensuring privacy and peace of mind.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
